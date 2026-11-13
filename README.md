@@ -128,6 +128,10 @@ Important source-level caveats:
 - **No screenshot saved from key:** focus the OpenCV window and press `S`.
 - **Recording file is missing/empty:** start recording with `R`, ensure frames are being processed, stop with `R` or quit cleanly, and check codec support.
 
+## Contributors
+
+This project was developed collaboratively. We appreciate the contributions and efforts of everyone involved. Thanks to everyone who contributed to this project!
+
 ## License and attribution
 
 The repository is licensed under the MIT License. The source identifies `tubakhxn` as creator; the license names Tuba Khan as copyright holder.
