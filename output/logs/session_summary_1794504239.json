@@ -1,0 +1,29 @@
+{
+  "session_duration_seconds": 67.10475373268127,
+  "average_fps": 48.45362770900798,
+  "total_frames": 2217,
+  "recognition_events": 14,
+  "most_recognized": [
+    [
+      "O",
+      3
+    ],
+    [
+      "K",
+      3
+    ],
+    [
+      "Y",
+      2
+    ],
+    [
+      "L",
+      2
+    ],
+    [
+      "R",
+      2
+    ]
+  ],
+  "final_sentence": "Yoruk "
+}

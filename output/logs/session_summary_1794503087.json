@@ -1,0 +1,29 @@
+{
+  "session_duration_seconds": 159.34739923477173,
+  "average_fps": 38.09892880787594,
+  "total_frames": 5785,
+  "recognition_events": 30,
+  "most_recognized": [
+    [
+      "K",
+      12
+    ],
+    [
+      "R",
+      5
+    ],
+    [
+      "O",
+      4
+    ],
+    [
+      "U",
+      4
+    ],
+    [
+      "L",
+      2
+    ]
+  ],
+  "final_sentence": "Okkokkrurukuukkkkkrkrrk "
+}

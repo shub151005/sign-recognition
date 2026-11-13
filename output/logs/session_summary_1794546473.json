@@ -1,0 +1,29 @@
+{
+  "session_duration_seconds": 153.9545760154724,
+  "average_fps": 48.81787989323555,
+  "total_frames": 6267,
+  "recognition_events": 39,
+  "most_recognized": [
+    [
+      "O",
+      8
+    ],
+    [
+      "A",
+      7
+    ],
+    [
+      "K",
+      6
+    ],
+    [
+      "Y",
+      4
+    ],
+    [
+      "S",
+      4
+    ]
+  ],
+  "final_sentence": "Youosol Youkvk "
+}

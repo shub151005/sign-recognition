@@ -1,0 +1,29 @@
+{
+  "session_duration_seconds": 59.95881676673889,
+  "average_fps": 51.50272648394343,
+  "total_frames": 2728,
+  "recognition_events": 10,
+  "most_recognized": [
+    [
+      "O",
+      4
+    ],
+    [
+      "L",
+      2
+    ],
+    [
+      "A",
+      2
+    ],
+    [
+      "Y",
+      1
+    ],
+    [
+      "V",
+      1
+    ]
+  ],
+  "final_sentence": "Lo Yaoao Ov L "
+}

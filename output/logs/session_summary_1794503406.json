@@ -1,0 +1,25 @@
+{
+  "session_duration_seconds": 24.373733282089233,
+  "average_fps": 43.982527230833284,
+  "total_frames": 845,
+  "recognition_events": 6,
+  "most_recognized": [
+    [
+      "K",
+      2
+    ],
+    [
+      "U",
+      2
+    ],
+    [
+      "Y",
+      1
+    ],
+    [
+      "O",
+      1
+    ]
+  ],
+  "final_sentence": "Yokuuk "
+}
